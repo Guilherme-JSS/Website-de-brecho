@@ -18,7 +18,7 @@ body {
 .navbar ul {
     list-style: none;
     display: flex;
-    gap: 32px;
+    gap: 64px;
     justify-content: center;
 
 }
@@ -41,7 +41,7 @@ body {
     width: 100%;
     bottom: 0;
     position: relative;
-    margin-top: 32 px;
+    margin-top: 32px;
 }
 
 section {
