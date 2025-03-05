@@ -6,12 +6,12 @@
 }
 
 body {
-    background-color: powderblue;
+    background-color: wheat;
     line-height: 1.6;
 }
 
 .navbar {
-    background-color:coral;
+    background: color #444;;
     padding: 16px;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .navbar a:hover {
-    color: grey;
+    color: gold;
 }
 
 .rodape {
@@ -78,4 +78,8 @@ section {
     .carousel img {
         width: 100%;
         transition: transform 0.5s ease-in-out;
+    }
+
+    .flexivel{
+        display: flex;
     }
