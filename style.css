@@ -24,13 +24,13 @@ body {
 }
 
 .navbar a {
-    color: white;
+    color: wheat;
     text-decoration: none;
     font-weight: bold;
 }
 
 .navbar a:hover {
-    color: sienna;
+    color: grey;
 }
 
 .rodape {
