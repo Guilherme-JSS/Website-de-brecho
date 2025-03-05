@@ -30,7 +30,7 @@ body {
 }
 
 .navbar a:hover {
-    color: crimson;
+    color: sienna;
 }
 
 .rodape {
@@ -47,7 +47,7 @@ body {
 section {
     margin: 32px 0;
     padding: 32px;
-    background-color: firebrick;
+    background-color: darksalmon;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
