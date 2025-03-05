@@ -6,12 +6,12 @@
 }
 
 body {
-    background-color: wheat;
+
     line-height: 1.6;
 }
 
 .navbar {
-    background: color #444;
+    background-color: #444;
     padding: 16px;
 }
 
