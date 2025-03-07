@@ -5,6 +5,10 @@
     
 }
 
+div {
+    text-align: center;
+}
+
 body {
     line-height: 1.6;
     background-color: rgb(219, 219, 219);
@@ -81,6 +85,8 @@ section {
 
     .flexivel{
         display: flex;
+        justify-content: center;
+        gap: 20px;
     }
 
     h2{
@@ -111,8 +117,10 @@ section {
     
     .produto img {
         width: 100%;
-        height: auto;
+        height: 200px;
+        object-fit: cover;
         border-radius: 5px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
     }
     
     .produto h3 {
@@ -151,5 +159,5 @@ section {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 20px
+        gap: 20px;
     }
