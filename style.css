@@ -197,8 +197,9 @@ section {
     }
 
     .goku {
+        position: left;
+        justify-content: left;
         width: 2%;
-        height: max-content 20px;
-        width: max-content 20px;
+        height: auto;
     }
 
