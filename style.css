@@ -11,7 +11,7 @@ body {
 }
 
 .navbar {
-    background-color: #444;
+    background-color: #3f3e3e;
     padding: 16px;
 }
 
@@ -24,13 +24,13 @@ body {
 }
 
 .navbar a {
-    color: wheat;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
 }
 
 .navbar a:hover {
-    color: gold;
+    color: rgb(203, 255, 134);
 }
 
 .rodape {
@@ -47,7 +47,7 @@ body {
 section {
     margin: 32px 0;
     padding: 32px;
-    background-color: darksalmon;
+    background-color: rgb(173, 207, 141);
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
