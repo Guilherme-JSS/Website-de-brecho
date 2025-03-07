@@ -190,10 +190,14 @@ section {
 
     ul img {
         position: left;
-
+        justify-content: left;
+        width: 2%;
+        height: auto;
     }
 
     .goku {
-        width: 5px;
-        height: 5px;
+        width: 2%;
+        height: max-content 20px;
+        width: max-content 20px;
     }
+
