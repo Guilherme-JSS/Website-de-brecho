@@ -71,7 +71,6 @@ section {
 
     .carousel {
         display: flex;
-        overflow: hidden;
         width: 300px;
     }
 
