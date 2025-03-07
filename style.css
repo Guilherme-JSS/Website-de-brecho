@@ -213,7 +213,7 @@ section {
         height: 12%;
     }
 
-    #Contato {
+    .contato {
 
         position: fixed;
         bottom: 20px;
