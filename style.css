@@ -107,7 +107,8 @@ section {
     }
 
     .produto {
-        width: 220px;
+        height: 500px;
+        width: 300px;
         background: white;
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -117,7 +118,7 @@ section {
     
     .produto img {
         width: 100%;
-        height: 200px;
+        height: 300px;
         object-fit: cover;
         border-radius: 5px;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
@@ -161,5 +162,3 @@ section {
         justify-content: center;
         gap: 20px;
     }
-
-    asdfa
