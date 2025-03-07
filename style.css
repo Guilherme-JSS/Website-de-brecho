@@ -212,3 +212,22 @@ section {
         width: 12%;
         height: 12%;
     }
+
+    #Contato {
+
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: flex;
+        padding: 10px;
+        align-items: center;
+        background-color:  rgb(129, 205, 228);
+        opacity: 0.8;
+        border-radius: 10px;
+    
+    }
+    
+    #formulario-contato{
+        padding: 20px;
+        background-color: rgb(30, 175, 156);
+    }
