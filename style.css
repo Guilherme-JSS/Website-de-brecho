@@ -84,7 +84,6 @@ section {
     .carousel {
         display: flex;
         width: 300px;
-        justify-content: center;
     }
 
     .carousel img {
@@ -94,7 +93,6 @@ section {
 
     .flexivel{
         display: flex;
-        justify-content: center;
         gap: 20px;
     }
 
