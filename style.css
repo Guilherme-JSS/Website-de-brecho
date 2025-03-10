@@ -64,6 +64,10 @@ section {
     border-radius: 8px;
 }
 
+hr {
+    width: 1000px;
+}
+
 .conteudo {
     padding: 1px;
     border-bottom: 2px solid #eee;
