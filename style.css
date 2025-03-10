@@ -73,6 +73,15 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+.barra2 {
+    width: 20%;
+    margin: 0 auto;
+    border-bottom: 2px solid #3a3a3a;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
 .conteudo {
     padding: 1px;
     border-bottom: 2px solid #eee;
@@ -224,34 +233,23 @@ ul img {
 
 .contato {
 
-    position: fixed;
-    opacity: 20%;
-    bottom: 20px;
-    right: 20px;
-    display: flex;
-    padding: 10px;
-    align-items: center;
-    background-color: #555;
-    opacity: 0.8;
-    border-radius: 30px;
-    transition: background 0.6s, transform 0.3s;
-    color: aliceblue;
-}
-
-.contato a:hover {
-    opacity: 0.5;
-}
-
-label{
-    color: rgb(255, 255, 255);
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3);
-}
-
-.conteudo2 {
-    display: flex;
-    align-content: center;
-    gap: 100px;
-}
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: flex;
+        padding: 10px;
+        align-items: center;
+        background-color:  #555;
+        opacity: 0.8;
+        border-radius: 10px;
+        color: aliceblue;
+    }
+    
+    .conteudo2 {
+        display: flex;
+        align-content: center;
+        gap: 100px;
+    }
 
 #formulario-contato {
     padding: 20px;
