@@ -239,7 +239,7 @@ section {
         opacity: 20%;
         bottom: 20px;
         right: 20px;
-        display: flex;
+        display: block;
         padding: 10px;
         align-items: center;
         background-color:  #555;
@@ -249,13 +249,13 @@ section {
     }
     
     .conteudo2 {
-        display: flex;
+        display: block;
         align-content: center;
         gap: 100px;
     }
 
     #formulario-contato{
-        padding: 20px;
+        padding: 30px;
         background-color: rgb(30, 175, 156);
     }
 
