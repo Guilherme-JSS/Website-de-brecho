@@ -220,6 +220,7 @@ ul img {
         justify-content: left;
         width: 12%;
         height: 12%;
+        box-shadow: 0px 4px 6px rgba(9, 9, 9, 9.9); 
     }
 
 .contato {
@@ -256,4 +257,8 @@ label{
     #formulario-contato{
         padding: 20px;
         background-color: rgb(30, 175, 156);
+    }
+
+    .elias{
+        height: 70px
     }
