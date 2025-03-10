@@ -228,6 +228,12 @@ section {
         color: aliceblue;
     }
     
+    .conteudo2 {
+        display: flex;
+        align-content: center;
+        gap: 100px;
+    }
+
     #formulario-contato{
         padding: 20px;
         background-color: rgb(30, 175, 156);
