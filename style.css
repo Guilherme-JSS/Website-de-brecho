@@ -215,12 +215,13 @@ ul img {
 }
 
 
-.logo img {
-    position: left;
-    justify-content: left;
-    width: 12%;
-    height: 12%;
-}
+    .logo img{
+        position: left;
+        justify-content: left;
+        width: 12%;
+        height: 12%;
+        box-shadow: 0px 4px 6px rgba(9, 9, 9, 9.9); 
+    }
 
 .contato {
 
