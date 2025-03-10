@@ -235,6 +235,7 @@ section {
     .contato {
 
         position: fixed;
+        opacity: 20%;
         bottom: 20px;
         right: 20px;
         display: flex;
@@ -246,6 +247,12 @@ section {
         color: aliceblue;
     }
     
+    .conteudo2 {
+        display: flex;
+        align-content: center;
+        gap: 100px;
+    }
+
     #formulario-contato{
         padding: 20px;
         background-color: rgb(30, 175, 156);
