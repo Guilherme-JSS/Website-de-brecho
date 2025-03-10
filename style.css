@@ -212,6 +212,7 @@ section {
         justify-content: left;
         width: 12%;
         height: 12%;
+        box-shadow: #333;
     }
 
     .contato {
